@@ -1,0 +1,1009 @@
+24.10.2021 11:48:55.527 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 11:48:55.540 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 11:48:55.540 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 11:48:55.540 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 11:48:55.541 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 11:48:55.541 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 11:48:55.541 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 11:48:55.541 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 11:48:55.541 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 11:48:55.542 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 11:48:55.542 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 11:48:55.542 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 11:48:55.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 11:48:55.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 11:48:55.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 11:48:55.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 11:48:55.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 11:48:55.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 11:48:55.544 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 11:48:55.545 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 11:48:55.548 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 11:50:41.066 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 11:50:41.076 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 11:50:41.076 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 11:50:41.076 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 11:50:41.076 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 11:50:41.076 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 11:50:41.077 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 11:50:41.077 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 11:50:41.077 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 11:50:41.077 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 11:50:41.078 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 11:50:41.078 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 11:50:41.078 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 11:50:41.078 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 11:50:41.079 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 11:50:41.079 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 11:50:41.079 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 11:50:41.080 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 11:50:41.081 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 11:50:41.081 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 11:50:41.082 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 11:50:41.083 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 11:50:41.084 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 11:50:41.124 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 11:50:41.320 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@3059cbc
+24.10.2021 11:50:41.322 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 11:54:43.292 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 11:54:43.301 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 11:54:43.302 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 11:54:43.303 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 11:54:43.303 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 11:54:43.303 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 11:54:43.303 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 11:54:43.304 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 11:54:43.304 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 11:54:43.304 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 11:54:43.304 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 11:54:43.305 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 11:54:43.306 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 11:54:43.306 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 11:54:43.306 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 11:54:43.307 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 11:54:43.307 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 11:54:43.307 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 11:54:43.307 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 11:54:43.307 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 11:54:43.308 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 11:54:43.308 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 11:54:43.309 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 11:56:13.283 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 11:56:13.291 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 11:56:13.291 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 11:56:13.291 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 11:56:13.291 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 11:56:13.292 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 11:56:13.292 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 11:56:13.292 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 11:56:13.292 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 11:56:13.292 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 11:56:13.293 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 11:56:13.294 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 11:56:13.294 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 11:56:13.294 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 11:56:13.294 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 11:56:13.294 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 11:56:13.295 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 11:56:13.296 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 11:56:13.296 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 11:56:13.297 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 11:57:56.543 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 11:57:56.549 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 11:57:56.550 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 11:57:56.551 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 11:57:56.551 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 11:57:56.551 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 11:57:56.552 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 11:57:56.552 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 11:57:56.552 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 11:57:56.552 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 11:57:56.552 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 11:57:56.553 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 11:57:56.554 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 11:57:56.556 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 11:58:00.510 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 11:58:00.517 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 11:58:00.517 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 11:58:00.517 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 11:58:00.517 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 11:58:00.517 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 11:58:00.518 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 11:58:00.518 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 11:58:00.518 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 11:58:00.518 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 11:58:00.519 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 11:58:00.520 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 11:58:00.520 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 11:58:00.520 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 11:58:00.520 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 11:58:00.520 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 11:58:00.521 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 11:58:00.522 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 11:58:00.522 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 11:58:00.523 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:00:13.665 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:00:13.672 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:00:13.673 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:00:13.673 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:00:13.673 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:00:13.673 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:00:13.674 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:00:13.674 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:00:13.674 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:00:13.674 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:00:13.674 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:00:13.675 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 12:00:13.676 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:00:13.678 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:02:17.348 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:02:17.357 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:02:17.357 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:02:17.357 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:02:17.358 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:02:17.358 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:02:17.358 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:02:17.358 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:02:17.358 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:02:17.358 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:02:17.359 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:02:17.360 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:02:17.360 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:02:17.360 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:02:17.360 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:02:17.361 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:02:17.362 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:02:17.362 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:02:17.362 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 12:02:17.362 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:02:17.363 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:02:17.402 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:02:17.578 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@6babf3bf
+24.10.2021 12:02:17.581 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 12:02:17.660 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-2 - configuration:
+24.10.2021 12:02:17.668 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:02:17.668 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:02:17.668 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:02:17.668 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:02:17.668 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:02:17.668 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:02:17.669 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:02:17.670 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-2"
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 12:02:17.671 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:02:17.672 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-2 - Starting...
+24.10.2021 12:04:38.023 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:04:38.030 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:04:38.031 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:04:38.032 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:04:38.033 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:04:38.033 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 12:04:38.033 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:04:38.033 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:04:38.034 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:04:38.035 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:04:38.035 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 12:04:38.035 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:04:38.036 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:43:46.935 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:43:46.943 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:43:46.944 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:43:46.944 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:43:46.944 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:43:46.944 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:43:46.944 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:43:46.945 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:43:46.945 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:43:46.945 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:43:46.946 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 12:43:46.948 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 12:43:46.949 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:43:46.951 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:43:46.991 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:43:47.180 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@3059cbc
+24.10.2021 12:43:47.181 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 12:50:01.901 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:50:01.908 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:50:01.908 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:50:01.908 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:50:01.908 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:50:01.909 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:50:01.909 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:50:01.909 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:50:01.909 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:50:01.909 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:50:01.910 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:50:01.910 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:50:01.910 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:50:01.910 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:50:01.910 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:50:01.911 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:50:01.911 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:50:01.911 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:50:01.912 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 12:50:01.913 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:50:01.915 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:50:01.952 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:50:02.129 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@3059cbc
+24.10.2021 12:50:02.131 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 12:57:48.591 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:57:48.600 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:57:48.600 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:57:48.600 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:57:48.600 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:57:48.600 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:57:48.600 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:57:48.601 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:57:48.601 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:57:48.601 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:57:48.602 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:57:48.603 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:57:48.603 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:57:48.603 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:57:48.603 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 12:57:48.603 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:57:48.604 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:57:48.605 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 12:57:48.605 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:57:48.606 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 12:57:48.644 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 12:57:48.818 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@6babf3bf
+24.10.2021 12:57:48.820 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 12:58:35.953 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 12:58:35.959 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 12:58:35.960 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 12:58:35.961 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 12:58:35.961 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 12:58:35.961 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 12:58:35.961 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 12:58:35.962 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 12:58:35.962 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 12:58:35.962 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 12:58:35.962 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 12:58:35.962 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................url
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................10
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................10
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 12:58:35.963 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"user"
+24.10.2021 12:58:35.964 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 12:58:35.965 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:00:23.212 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:00:23.219 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:00:23.219 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:00:23.219 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:00:23.219 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:00:23.220 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:00:23.220 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:00:23.220 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:00:23.220 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:00:23.220 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:00:23.221 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:00:23.222 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:00:23.222 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:00:23.222 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:00:23.223 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:00:23.224 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:00:23.224 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:00:23.224 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:00:23.224 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:00:23.224 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:00:23.225 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:00:23.263 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:00:23.438 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@6babf3bf
+24.10.2021 13:00:23.440 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:01:15.504 [userDaoImplem] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:01:15.511 [userDaoImplem] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:01:15.511 [userDaoImplem] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:01:15.512 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:01:15.513 [userDaoImplem] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:01:15.514 [userDaoImplem] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:01:15.515 [userDaoImplem] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:01:15.516 [userDaoImplem] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:01:15.518 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:01:15.556 [userDaoImplem] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:01:15.731 [userDaoImplem] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@3059cbc
+24.10.2021 13:01:15.733 [userDaoImplem] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:08:37.439 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:08:37.446 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:08:37.446 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:08:37.446 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:08:37.447 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:08:37.447 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:08:37.447 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:08:37.447 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:08:37.447 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:08:37.447 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:08:37.448 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:08:37.448 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:08:37.448 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:08:37.448 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:08:37.448 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:08:37.449 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:08:37.449 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:08:37.449 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:08:37.450 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:08:37.451 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:08:37.452 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:08:37.493 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:08:37.671 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:08:37.672 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:33:10.948 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:33:10.956 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:33:10.957 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:33:10.958 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:33:10.959 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:33:10.959 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:33:10.959 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:33:10.960 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:33:10.961 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:33:10.961 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:33:10.961 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:33:10.961 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:33:10.961 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:33:10.962 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:33:11.001 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:33:11.178 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:33:11.179 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:37:50.113 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:37:50.121 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:37:50.121 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:37:50.121 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:37:50.122 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:37:50.122 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:37:50.122 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:37:50.122 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:37:50.122 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:37:50.122 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:37:50.125 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:37:50.125 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:37:50.125 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:37:50.125 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:37:50.126 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:37:50.126 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:37:50.126 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:37:50.126 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:37:50.127 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:37:50.128 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:37:50.129 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:37:50.131 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:37:50.170 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:37:50.347 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:37:50.349 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:49:58.294 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:49:58.303 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:49:58.303 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:49:58.303 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:49:58.303 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:49:58.304 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:49:58.304 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:49:58.304 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:49:58.304 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:49:58.304 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:49:58.305 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:49:58.306 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:49:58.307 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:49:58.309 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:49:58.347 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:49:58.520 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:49:58.521 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:49:58.558 [main] DEBUG  c.z.h.p.ProxyConnection - HikariPool-1 - Executed rollback on connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2 due to dirty commit state on close().
+24.10.2021 13:49:58.560 [main] DEBUG  c.z.h.pool.PoolBase - HikariPool-1 - Reset (autoCommit) on connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:49:58.585 [main] ERROR  b.i.j.d.i.UserDaoImplem - Error while adding a userUser [email='griib@tut.by', password='Bicep', firstName='Denis', lastName='Samusenko', role=null, balanceAmount=null]
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry ''griib@tut.by'' for key 'UNIQUE'
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3933)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3869)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2675)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1915)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2136)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2070)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5187)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2055)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.addUser(UserDaoImplem.java:40)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.main(UserDaoImplem.java:80)
+24.10.2021 13:49:58.592 [main] DEBUG  c.z.h.p.ProxyConnection - HikariPool-1 - Executed rollback on connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2 due to dirty commit state on close().
+24.10.2021 13:49:58.595 [main] DEBUG  c.z.h.pool.PoolBase - HikariPool-1 - Reset (autoCommit) on connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:49:58.596 [main] ERROR  b.i.j.d.i.UserDaoImplem - Error while adding a userUser [email='griib@tut.by', password='Bicep', firstName='Denis', lastName='Samusenko', role=null, balanceAmount=null]
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry ''griib@tut.by'' for key 'UNIQUE'
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3933)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3869)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2675)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1915)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2136)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2070)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5187)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2055)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.addUser(UserDaoImplem.java:40)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.main(UserDaoImplem.java:81)
+24.10.2021 13:50:24.178 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:50:24.185 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:50:24.186 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:50:24.187 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:50:24.187 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:50:24.187 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:50:24.187 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:50:24.187 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:50:24.187 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:50:24.188 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:50:24.188 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:50:24.188 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:50:24.188 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:50:24.189 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:50:24.190 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:50:24.190 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:50:24.190 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:50:24.190 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:50:24.190 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:50:24.191 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:50:24.229 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:50:24.402 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@24fcf36f
+24.10.2021 13:50:24.404 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:50:24.448 [main] DEBUG  c.z.h.p.ProxyConnection - HikariPool-1 - Executed rollback on connection com.mysql.jdbc.JDBC4Connection@24fcf36f due to dirty commit state on close().
+24.10.2021 13:50:24.449 [main] DEBUG  c.z.h.pool.PoolBase - HikariPool-1 - Reset (autoCommit) on connection com.mysql.jdbc.JDBC4Connection@24fcf36f
+24.10.2021 13:50:24.479 [main] ERROR  b.i.j.d.i.UserDaoImplem - Error while adding a userUser [email='griib@tut.by', password='Bicep', firstName='Denis', lastName='Samusenko', role=null, balanceAmount=null]
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry ''griib@tut.by'' for key 'UNIQUE'
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3933)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3869)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2675)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1915)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2136)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2070)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5187)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2055)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.addUser(UserDaoImplem.java:40)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.main(UserDaoImplem.java:81)
+24.10.2021 13:51:29.704 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:51:29.711 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:51:29.711 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:51:29.711 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:51:29.711 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:51:29.711 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:51:29.711 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:51:29.712 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:51:29.712 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:51:29.712 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:51:29.713 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:51:29.714 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:51:29.714 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:51:29.714 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:51:29.714 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:51:29.714 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:51:29.714 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:51:29.715 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:51:29.717 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:51:29.755 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:51:29.932 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:51:29.934 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:52:35.222 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:52:35.233 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:52:35.233 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:52:35.234 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:52:35.235 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:52:35.236 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:52:35.236 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:52:35.236 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:52:35.236 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:52:35.236 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:52:35.237 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:52:35.238 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:52:35.238 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:52:35.239 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:52:35.277 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:52:35.452 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:52:35.453 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+24.10.2021 13:52:35.493 [main] DEBUG  c.z.h.p.ProxyConnection - HikariPool-1 - Executed rollback on connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2 due to dirty commit state on close().
+24.10.2021 13:52:35.495 [main] DEBUG  c.z.h.pool.PoolBase - HikariPool-1 - Reset (autoCommit) on connection com.mysql.jdbc.JDBC4Connection@7ea9e1e2
+24.10.2021 13:52:35.520 [main] ERROR  b.i.j.d.i.UserDaoImplem - Error while adding a userUser [email='griib@tut.by', password='Bicep', firstName='Denis', lastName='Samusenko', role=null, balanceAmount=null]
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry ''griib@tut.by'' for key 'UNIQUE'
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3933)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3869)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2675)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2465)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1915)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2136)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2070)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5187)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2055)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.addUser(UserDaoImplem.java:40)
+	at by.itacademy.javaenterprise.dao.impl.UserDaoImplem.main(UserDaoImplem.java:83)
+24.10.2021 13:52:50.402 [main] DEBUG  c.z.h.HikariConfig - HikariPool-1 - configuration:
+24.10.2021 13:52:50.410 [main] DEBUG  c.z.h.HikariConfig - allowPoolSuspension.............false
+24.10.2021 13:52:50.410 [main] DEBUG  c.z.h.HikariConfig - autoCommit......................true
+24.10.2021 13:52:50.410 [main] DEBUG  c.z.h.HikariConfig - catalog.........................none
+24.10.2021 13:52:50.410 [main] DEBUG  c.z.h.HikariConfig - connectionInitSql...............none
+24.10.2021 13:52:50.411 [main] DEBUG  c.z.h.HikariConfig - connectionTestQuery.............none
+24.10.2021 13:52:50.411 [main] DEBUG  c.z.h.HikariConfig - connectionTimeout...............30000
+24.10.2021 13:52:50.411 [main] DEBUG  c.z.h.HikariConfig - dataSource......................none
+24.10.2021 13:52:50.411 [main] DEBUG  c.z.h.HikariConfig - dataSourceClassName.............none
+24.10.2021 13:52:50.411 [main] DEBUG  c.z.h.HikariConfig - dataSourceJNDI..................none
+24.10.2021 13:52:50.412 [main] DEBUG  c.z.h.HikariConfig - dataSourceProperties............{password=<masked>, prepStmtCacheSqlLimit=2048, cachePrepStmts=true, prepStmtCacheSize=250}
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - driverClassName.................none
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - exceptionOverrideClassName......none
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - healthCheckProperties...........{}
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - healthCheckRegistry.............none
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - idleTimeout.....................600000
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - initializationFailTimeout.......1
+24.10.2021 13:52:50.413 [main] DEBUG  c.z.h.HikariConfig - isolateInternalQueries..........false
+24.10.2021 13:52:50.414 [main] DEBUG  c.z.h.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:52:50.414 [main] DEBUG  c.z.h.HikariConfig - leakDetectionThreshold..........0
+24.10.2021 13:52:50.414 [main] DEBUG  c.z.h.HikariConfig - maxLifetime.....................1800000
+24.10.2021 13:52:50.414 [main] DEBUG  c.z.h.HikariConfig - maximumPoolSize.................30
+24.10.2021 13:52:50.414 [main] DEBUG  c.z.h.HikariConfig - metricRegistry..................none
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - metricsTrackerFactory...........none
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - minimumIdle.....................30
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - password........................<masked>
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - poolName........................"HikariPool-1"
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - readOnly........................false
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - registerMbeans..................false
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - scheduledExecutor...............none
+24.10.2021 13:52:50.415 [main] DEBUG  c.z.h.HikariConfig - schema..........................none
+24.10.2021 13:52:50.416 [main] DEBUG  c.z.h.HikariConfig - threadFactory...................internal
+24.10.2021 13:52:50.416 [main] DEBUG  c.z.h.HikariConfig - transactionIsolation............default
+24.10.2021 13:52:50.416 [main] DEBUG  c.z.h.HikariConfig - username........................"xxx"
+24.10.2021 13:52:50.416 [main] DEBUG  c.z.h.HikariConfig - validationTimeout...............5000
+24.10.2021 13:52:50.417 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Starting...
+24.10.2021 13:52:50.457 [main] DEBUG  c.z.h.u.DriverDataSource - Loaded driver with class name com.mysql.jdbc.Driver for jdbcUrl=jdbc:mysql://localhost:3306/Athlete_Diary?useSSL=false
+24.10.2021 13:52:50.635 [main] DEBUG  c.z.h.p.HikariPool - HikariPool-1 - Added connection com.mysql.jdbc.JDBC4Connection@24fcf36f
+24.10.2021 13:52:50.636 [main] INFO   c.z.h.HikariDataSource - HikariPool-1 - Start completed.
