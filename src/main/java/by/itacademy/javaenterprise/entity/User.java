@@ -1,4 +1,4 @@
-package entity;
+package by.itacademy.javaenterprise.entity;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -7,13 +7,25 @@ public class User implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 
+	private int id;
+
+
+
 	private String email;
 	private String password;
 	private String firstName;
 	private String lastName;
-	private Role role;
 	private BigDecimal balanceAmount;
+	private Role role;
 
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
 	public String getEmail() {
 		return email;
 	}

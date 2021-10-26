@@ -1,17 +1,18 @@
 package by.itacademy.javaenterprise.dao;
 
 import by.itacademy.javaenterprise.exception.DAOException;
-import entity.User;
+import by.itacademy.javaenterprise.entity.User;
+
+import java.util.List;
 
 
-public interface UserDao {
+public interface UserDao<T> {
 
     void addUser(User user) throws DAOException;
 
-    // TODO: 24.10.2021
-//    void update(User user) throws DAOException;
+    void updateUser(User user) throws DAOException;
 
-    void delete(User user) throws DAOException;
+    void deleteUser(User user) throws DAOException;
 
-
+    List<T> getAllUsersPagination(int limit, int offset);
 }
